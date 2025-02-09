@@ -33,4 +33,4 @@ The `tsp_climb` function generates a random initial solution (a random cycle) an
 
 ### Results
 
-Both approaches can achieve goosd performance in finding a minimal lenght path, but the Evolutionary Algorithm showed to be able to find it in a shorter time, with respect to the Hill Climb method, whch require a lot more steps (and time) to find a similar solution.
+Both approaches can achieve good performance in finding a minimal lenght path, but the Evolutionary Algorithm showed to be able to find it in a shorter time, with respect to the Hill Climb method, whch require a lot more steps (and time) to find a similar solution.
